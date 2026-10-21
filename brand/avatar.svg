@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Edo Framework</title>
+  <rect width="512" height="512" fill="#F4E9D7"/>
+  <g transform="translate(56 56) scale(2)">
+    <circle cx="100" cy="100" r="90.5" fill="none" stroke="#251A06" stroke-width="11"/>
+    <g fill="none" stroke="#251A06" stroke-width="8">
+      <circle cx="100" cy="66" r="38"/>
+      <circle cx="129.445" cy="117" r="38"/>
+      <circle cx="70.555" cy="117" r="38"/>
+    </g>
+    <circle cx="100" cy="100" r="9" fill="#08888C"/>
+  </g>
+</svg>

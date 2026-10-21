@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="32" height="32">
+  <style>
+    .ink { stroke: #251A06; }
+    @media (prefers-color-scheme: dark) { .ink { stroke: #F4E9D7; } }
+  </style>
+  <circle class="ink" cx="100" cy="100" r="88" fill="none" stroke-width="16"/>
+  <g class="ink" fill="none" stroke-width="14">
+    <circle cx="100" cy="68" r="36"/>
+    <circle cx="127.713" cy="116" r="36"/>
+    <circle cx="72.287" cy="116" r="36"/>
+  </g>
+</svg>

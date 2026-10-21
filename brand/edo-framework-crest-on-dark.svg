@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="title">
+  <title id="title">Edo Framework</title>
+  <circle cx="100" cy="100" r="90.5" fill="none" stroke="#F4E9D7" stroke-width="11"/>
+  <g fill="none" stroke="#F4E9D7" stroke-width="8">
+    <circle cx="100" cy="66" r="38"/>
+    <circle cx="129.445" cy="117" r="38"/>
+    <circle cx="70.555" cy="117" r="38"/>
+  </g>
+  <circle cx="100" cy="100" r="9" fill="#6FBEC1"/>
+</svg>
