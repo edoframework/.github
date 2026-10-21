@@ -1,0 +1,23 @@
+name: Feature request
+description: Propose something the library does not do yet.
+labels: ["enhancement"]
+body:
+  - type: input
+    id: library
+    attributes:
+      label: Library
+      placeholder: edo-i18n
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem you want to solve
+      description: What are you trying to do, and why does the library not let you?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you propose
+      description: An API sketch helps.
