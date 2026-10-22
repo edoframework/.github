@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security problems privately to **security@edoframework.com**. Do not open a public
+Please report security problems privately to **security@taihei.dev**. Do not open a public
 issue, pull request or discussion.
 
 Include the library and version, a description of the problem and how it can be exploited, and, if
@@ -22,7 +22,8 @@ released, the previous one receives security fixes for six more months.
 
 ## Verifying releases
 
-Every release on Maven Central under `com.edoframework` is signed by
-`Edo Framework Releases <releases@edoframework.com>`, fingerprint
+Every release on Maven Central under `dev.taihei` is signed by
+the Taihei Framework release key (UID `Edo Framework Releases <releases@edoframework.com>`,
+from before the family was renamed), fingerprint
 `5026 B299 6DDB 697E C463  0BCF 14A7 33E2 A507 702F`, published on keyserver.ubuntu.com and
 keys.openpgp.org.

@@ -6,7 +6,7 @@ body:
     id: library
     attributes:
       label: Library
-      placeholder: edo-i18n
+      placeholder: taihei-i18n
     validations:
       required: true
   - type: textarea

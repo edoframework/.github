@@ -1,4 +1,4 @@
-# Edo Framework brand
+# Taihei Framework brand
 
 The crest is **Mitsu** (三つ), three interlocking rings inside a ring, drawn in the tradition of
 Edo-period family crests (*kamon*). Three rings that share one centre: the libraries of the family,
@@ -8,10 +8,10 @@ linked to one another, around a common core. The teal dot is where all three mee
 
 | File | Use |
 |---|---|
-| `edo-framework-crest.svg` | The crest on light backgrounds (espresso, teal centre), transparent |
-| `edo-framework-crest-on-dark.svg` | The crest on dark backgrounds (cream, light teal centre), transparent |
-| `edo-framework-crest-mono.svg` | One colour, for print, stamps and embossing |
-| `edo-framework-crest-1024.png` | The crest as a large PNG, transparent |
+| `taihei-framework-crest.svg` | The crest on light backgrounds (espresso, teal centre), transparent |
+| `taihei-framework-crest-on-dark.svg` | The crest on dark backgrounds (cream, light teal centre), transparent |
+| `taihei-framework-crest-mono.svg` | One colour, for print, stamps and embossing |
+| `taihei-framework-crest-1024.png` | The crest as a large PNG, transparent |
 | `avatar.svg`, `avatar.png` | Square, on cream, 512 px: GitHub, Maven Central, social profiles |
 | `favicon.svg` | Browser icon; switches to cream in dark mode |
 | `favicon-16.svg`, `favicon-16.png` | The 16 px icon, simplified: three heavy rings, no outer ring, no dot |
@@ -20,7 +20,7 @@ linked to one another, around a common core. The teal dot is where all three mee
 
 ## Colours
 
-The Edo Framework shares Innovenso's palette.
+The Taihei Framework shares Innovenso's palette.
 
 | Name | Hex | Use |
 |---|---|---|
@@ -32,7 +32,7 @@ The Edo Framework shares Innovenso's palette.
 
 ## Type
 
-**Playfair Display** for the wordmark "Edo Framework" and display text, **Montserrat** for body
+**Playfair Display** for the wordmark "Taihei Framework" and display text, **Montserrat** for body
 text, **Shippori Mincho** for Japanese (天下泰平).
 
 ## Tagline
@@ -46,5 +46,5 @@ peace).
 - Never stretch, rotate, outline or recolour the crest outside the palette above; never put it on
   a busy photograph.
 - Below 24 px use `favicon-16`, the simplified crest.
-- The crest is Innovenso BV's mark for the Edo Framework. The code is Apache 2.0; the crest is not
+- The crest is Innovenso BV's mark for the Taihei Framework. The code is Apache 2.0; the crest is not
   part of that licence.

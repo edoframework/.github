@@ -1,6 +1,6 @@
-# Contributing to the Edo Framework
+# Contributing to the Taihei Framework
 
-Thank you for taking the time to help. The Edo Framework is a family of open-source Scala 3
+Thank you for taking the time to help. The Taihei Framework is a family of open-source Scala 3
 libraries, maintained by Innovenso BV and released under the Apache License 2.0.
 
 ## Before you start
@@ -55,4 +55,4 @@ merged; `git rebase --signoff main` signs off the commits you already made.
 ## Code of conduct
 
 Everyone who takes part follows the [Code of Conduct](CODE_OF_CONDUCT.md). Report unacceptable
-behaviour to hello@edoframework.com.
+behaviour to hello@taihei.dev.

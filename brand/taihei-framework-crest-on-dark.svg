@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="title">
-  <title id="title">Edo Framework</title>
+  <title id="title">Taihei Framework</title>
   <circle cx="100" cy="100" r="90.5" fill="none" stroke="#F4E9D7" stroke-width="11"/>
   <g fill="none" stroke="#F4E9D7" stroke-width="8">
     <circle cx="100" cy="66" r="38"/>
