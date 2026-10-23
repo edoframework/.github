@@ -18,7 +18,8 @@ you can, a minimal reproduction.
 ## Supported versions
 
 The latest major version of each library receives security fixes. When a new major version is
-released, the previous one receives security fixes for six more months.
+released, the previous major version receives security fixes for 12 months after the new one
+ships.
 
 ## Verifying releases
 
